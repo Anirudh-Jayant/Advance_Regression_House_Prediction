@@ -39,7 +39,7 @@
     - So, we build 2 different regularization model & calculated important metrices for model evaluation
       - Ridge Regression
       - Lasso Regression
-     - We used 'GridSearchCV' to find the best value of alpha
+     - For hypertunning, we used 'GridSearchCV' to find the best value of alpha
      
       ![image](https://github.com/Anirudh-Jayant/Advance_Regression_House_Prediction/assets/98637152/c4058355-33f9-4371-9be7-ef420ad16a3f)
 
