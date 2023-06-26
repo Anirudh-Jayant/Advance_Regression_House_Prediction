@@ -53,7 +53,7 @@
 3. OverallCond     
 4. TotRmsAbvGrd     
 5. 1stFlrSF 
-Created by [@githubusername] - feel free to contact me!
+
 
 
 <!-- Optional -->
